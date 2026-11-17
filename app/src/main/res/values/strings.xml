@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TikTok AutoScroll</string>
+    <string name="accessibility_description">Mengamati tampilan TikTok untuk mendeteksi status video dan mengirim gesture swipe saat diaktifkan.</string>
+</resources>
